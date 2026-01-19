@@ -25,7 +25,7 @@
 ## Installation & Setup
 1. Clone the repository:
 ```Bash
-git clone https://github.com/yourusername/warden.git
+git clone https://github.com/bosukeme/warden.git
 cd warden
 ```
 
