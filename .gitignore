@@ -1,0 +1,4 @@
+*.log
+/tmp/logs/archive/*
+.DS_Store
+instruction.txt
