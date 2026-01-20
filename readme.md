@@ -69,7 +69,7 @@ bats warden.bats
 ## Automated Scheduling (Cron)
 To run the warden cleanup automatically every Sunday at midnight, add this to your crontab (use `crontab -e` to edit):
 ```bash
-Code snippet0 0 * * 0 /full/path/to/warden.sh --cleanup
+0 0 * * 0 /full/path/to/warden.sh --cleanup
 ```
 
 ## License
